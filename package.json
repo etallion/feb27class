@@ -1,0 +1,19 @@
+{
+  "name": "feb27class",
+  "version": "1.0.0",
+  "description": "Student Bio Webpage  Editted this on Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etallion/feb27class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etallion/feb27class/issues"
+  },
+  "homepage": "https://github.com/etallion/feb27class#readme"
+}
